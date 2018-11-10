@@ -302,7 +302,7 @@ Do While not file.AtEndOfStream
 	
 Loop
 
-'EndNotice = EndNotice & VbCrLf & VbCrLf & "For any of your IT Support needs contact Peerless Tech Solutions at" & VbCrLf & "Phone#: 301-539-4227" & VbCrLf & "Email@: support@getpeerless.com"
+'EndNotice = EndNotice & VbCrLf & VbCrLf & ""
 
 'CreateObject("WScript.Shell").Popup EndNotice, 3
 
