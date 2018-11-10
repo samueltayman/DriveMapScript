@@ -107,7 +107,7 @@ For i = 0 to colDrives.Count-1 Step 2
 	End If
 Next
 
-EndNotice = "Thank you for choosing Peerless Tech Solutions as your IT Support." & VbCrLf
+EndNotice = "" & VbCrLf
 
 arrGroups = CurrentUser.memberOf
 
